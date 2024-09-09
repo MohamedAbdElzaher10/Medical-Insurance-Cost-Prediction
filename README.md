@@ -1,7 +1,3 @@
-Certainly! Here’s the revised README for the Health Insurance Cost Prediction project, taking into account that StandardScaler and Linear Regression were not used:
-
----
-
 # Health Insurance Cost Prediction
 
 ## Overview
